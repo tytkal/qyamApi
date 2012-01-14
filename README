@@ -1,0 +1,7 @@
+if you want to work with the library just add it to your project folder 
+ant type 
+QT += network
+in your .pro file .
+Enjoy programing (:
+this library has been done by khalid Al-hussayen ,,,,,, tytkal@gmail.com
+Note : the library base on QJson for more info visit : http://qjson.sourceforge.net/
